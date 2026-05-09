@@ -1,4 +1,4 @@
--- full joins returns all records from BOTH tables.
+-- full outer joins returns all records from BOTH tables.
 -- Matching rows are combined.
 -- Non-matching rows from either side receive NULL values.
 
