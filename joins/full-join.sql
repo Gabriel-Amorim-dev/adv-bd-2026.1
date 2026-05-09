@@ -3,7 +3,7 @@
 -- Non-matching rows from either side receive NULL values.
 
 
--- This example shows all pets and all clients, even when no relationship exists between them.
+-- 1 This example shows all pets and all clients, even when no relationship exists between them.
 
 SELECT p.nome, c.nome
 FROM pets p
